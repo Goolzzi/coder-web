@@ -1,0 +1,45 @@
+{
+    icon: {
+      color: '#39b54a'
+    },
+    iconsList: {
+      padding: 0
+    },
+    icons: {
+      padding-right: 10px
+    },
+    details: {
+      font-size: 14px,
+      color: '#8290a2',
+      font-weight: 500
+    },
+    title: {
+      font-weight: 700,
+      color: '#39b54a',
+      font-size: 24px,
+      padding-right: 10px,
+      padding-bottom: 10px
+    },
+    container: {
+      background: '#f6f7f8',
+      border-radius: 4px,
+      padding: 20px
+    },
+    button: {
+      width: 'auto',
+      border: '1px solid #8290a2',
+      border-radius: 4px,
+      color: '#8290a2',
+      background: '#fff',
+      font-size: 14px,
+      padding: '15px 13px 14px',
+      font-weight: 400,
+      text-align: 'center',
+      transition: 'all .2s ease-in-out',
+      display: 'inline',
+      margin-right: 10px
+    },
+    buttonPrimary: {
+      background: '#0071bc'
+    }
+}

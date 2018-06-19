@@ -1,0 +1,11 @@
+.header.navbar-default .navbar-nav > li > a {
+  color: #fff;
+  text-decoration: none;
+}
+.header a:hover {
+  color: #39b54a;
+}
+
+.header.navbar-default .navbar-toggle .icon-bar {
+  background: #fff;
+}
